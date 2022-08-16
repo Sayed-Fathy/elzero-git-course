@@ -1,2 +1,2 @@
-# elzero-git-couse
+# elzero-git-course
 Git course practice
